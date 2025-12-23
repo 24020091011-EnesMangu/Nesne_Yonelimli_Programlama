@@ -1,1 +1,1 @@
-Nesne Yönelimli Programlama Hesap Makinesi Ödevi
+Nesne Yönelimli Programlama 
