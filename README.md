@@ -1,1 +1,1 @@
-# Nesne_Yonelimli_Programlama
+Nesne Yönelimli Programlama Hesap Makinesi Ödevi
