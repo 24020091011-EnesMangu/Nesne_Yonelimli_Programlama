@@ -1,3 +1,0 @@
-Bu proje, temel matematiksel işlemleri (toplama, çıkarma, çarpma ve bölme) basit bir arayüz üzerinden gerçekleştirmek amacıyla Java kullanılarak geliştirilmiştir. Nesne Yönelimli Programlama ödevi kapsamında hazırlanan bu çalışma; temel programlama mantığı, algoritma kurma ve arayüz (GUI) tasarımı süreçlerini pekiştirmeyi hedeflemektedir. Sade tasarımı başlangıç seviyesinde bir uygulama örneğidir.
-
-Hazırlayan: Enes Mangü
